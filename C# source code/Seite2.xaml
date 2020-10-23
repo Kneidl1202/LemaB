@@ -1,0 +1,96 @@
+﻿<Window x:Name="Seitezwei" x:Class="LeMa_A.Seite2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeMa_A"
+        mc:Ignorable="d"
+        Title="Seite2" Height="670" Width="461">
+    <Grid Margin="0,0,0,-69" Width="Auto" Height="Auto">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="317*"/>
+            <RowDefinition Height="37*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="445*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <CheckBox x:Name="verstaendnis1" Content="Verständnis für &quot;1 mehr&quot; ist gegeben." Grid.Column="1" HorizontalAlignment="Left" Margin="2,51,0,0" VerticalAlignment="Top" Height="15" Width="229" Checked="CheckBox_Checked"/>
+        <CheckBox x:Name="verstaendnis2" Content="Formulierung &quot;gleich nach/nachher&quot; ist nötig." Grid.Column="1" HorizontalAlignment="Left" Margin="2,71,0,0" VerticalAlignment="Top" Height="15" Width="293" Checked="verstaendnis2_Checked"/>
+        <Label Content="1. Zahlwortreihe - &quot;1 mehr / 1 weiniger&quot;" Grid.Column="1" HorizontalAlignment="Left" Margin="215,10,0,0" VerticalAlignment="Top" Height="26" Width="220"/>
+        <CheckBox x:Name="verstaendnis3" Content="Verständnis für &quot;1 weniger&quot; ist gegeben." Grid.Column="1" HorizontalAlignment="Left" Margin="2,318,0,0" VerticalAlignment="Top" Height="15" Width="229" Checked="verstaendnis3_Checked"/>
+        <CheckBox x:Name="verstaendnis4" Content="Formulierung &quot;Welche Zahl kommt beim Zählen vor ...&quot; ist nötig." Grid.Column="1" HorizontalAlignment="Left" Margin="2,338,0,0" VerticalAlignment="Top" Height="15" Width="293" Checked="verstaendnis4_Checked"/>
+        <Label Content="Das Kind:" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="27" Width="170" Margin="2,110,0,0"/>
+        <Label Content="antwortet falsch" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Height="24" Margin="2,160,0,0"/>
+        <Label Content="antwortet nach ... sekunden" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="159" Height="24" Margin="2,181,0,0"/>
+        <Label Content="antwortet spontan korrekt" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="153" Margin="2,137,0,0"/>
+        <Label Content="beginnt bei ... um Nachfolger&#xD;&#xA;zu bestimmen " HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="171" Height="42" Margin="2,0,0,383" Grid.Column="1"/>
+        <Label Content="antwortet gar nicht" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="35" Width="130" Margin="2,250,0,0"/>
+        <Label Content="7" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.484,0.2" Height="24" Width="53" Margin="206,110,0,0"/>
+        <Label Content="12" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.484,0.2" Height="24" Width="52" Margin="294,110,0,0"/>
+        <Label Content="16" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.484,0.2" Height="24" Width="56" Margin="376,110,0,0"/>
+        <CheckBox x:Name="spontan5" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="204,143,0,0" VerticalAlignment="Top" Width="16" Height="13" Checked="spontan5_Checked"/>
+        <CheckBox x:Name="spontan7" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="291,144,0,0" VerticalAlignment="Top" Width="14" RenderTransformOrigin="3,0.533" Height="14"/>
+        <CheckBox x:Name="spontan10" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="383,143,0,0" VerticalAlignment="Top" Width="14" Height="14"/>
+        <TextBox x:Name="falsch5" Grid.Column="1" Height="22" Margin="173,162,186,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="falsch5_TextChanged"/>
+        <TextBox x:Name="falsch7" Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="260,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="85"/>
+        <TextBox x:Name="falsch10" Grid.Column="1" Height="22" Margin="346,162,13,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="nicht5" Grid.Column="1" Height="23" Margin="173,185,186,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="nicht5_TextChanged"/>
+        <TextBox x:Name="nicht7" Grid.Column="1" Height="23" Margin="260,185,100,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="nicht10" Grid.Column="1" Height="23" Margin="346,185,13,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="bei5" Grid.Column="1" Height="44" Margin="173,209,186,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="bei5_TextChanged"/>
+        <TextBox x:Name="bei7" Grid.Column="1" Height="44" Margin="260,209,100,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="bei10" Grid.Column="1" Height="44" Margin="346,209,13,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <CheckBox x:Name="garnicht5" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="206,256,0,0" VerticalAlignment="Top" Width="16" RenderTransformOrigin="0.833,4.767" Height="15" Checked="garnicht5_Checked"/>
+        <CheckBox x:Name="garnicht7" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="291,259,0,0" VerticalAlignment="Top" Width="14" Height="15"/>
+        <CheckBox x:Name="garnicht10" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="383,259,0,0" VerticalAlignment="Top" Width="14" Height="15"/>
+        <Label Content="Das Kind:" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="27" Width="110" Margin="2,385,0,0"/>
+        <Label Content="antwortet falsch" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Height="24" Margin="2,434,0,0"/>
+        <Label Content="antwortet nach ... sekunden" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="159" Height="24" Margin="2,458,0,0"/>
+        <Label Content="antwortet spontan korrekt" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="153" Margin="2,411,0,0"/>
+        <Label Content="beginnt bei ... um Nachfolger&#xD;&#xA;zu bestimmen " Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="171" Height="42" Margin="2,0,0,109"/>
+        <Label Content="antwortet gar nicht" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="35" Width="130" Margin="2,525,0,0"/>
+        <Label Content="9" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.484,0.2" Height="24" Width="60" Margin="206,385,0,0"/>
+        <Label Content="12" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.484,0.2" Height="24" Width="52" Margin="291,385,0,0"/>
+        <Label Content="16" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.484,0.2" Height="24" Width="56" Margin="379,386,0,0"/>
+        <CheckBox x:Name="spontan9" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="207,415,0,0" VerticalAlignment="Top" Width="15" Height="15"/>
+        <CheckBox x:Name="spontan12" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="294,415,0,0" VerticalAlignment="Top" Width="15" RenderTransformOrigin="3,0.533" Height="15"/>
+        <CheckBox x:Name="spontan16" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="383,415,0,0" VerticalAlignment="Top" Width="14" Height="15"/>
+        <TextBox x:Name="falsch9" Grid.Column="1" Height="22" Margin="173,436,186,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="falsch12" Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="260,436,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="85"/>
+        <TextBox x:Name="falsch16" Grid.Column="1" Height="22" Margin="346,436,13,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="nicht9" Grid.Column="1" Height="23" Margin="173,459,186,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="nicht9_TextChanged"/>
+        <TextBox x:Name="nicht12" Grid.Column="1" Height="23" Margin="260,459,100,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="nicht16" Grid.Column="1" Height="23" Margin="346,459,13,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="bei9" Grid.Column="1" Height="44" Margin="173,483,186,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="bei12" Grid.Column="1" Height="44" Margin="260,483,100,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="bei16" Grid.Column="1" Height="44" Margin="346,483,13,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <CheckBox x:Name="garnicht9" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="206,531,0,0" VerticalAlignment="Top" Width="16" RenderTransformOrigin="0.833,4.767" Height="15"/>
+        <CheckBox x:Name="garnicht12" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="294,531,0,0" VerticalAlignment="Top" Width="15" Height="15"/>
+        <CheckBox x:Name="garnicht16" Content="CheckBox" Grid.Column="1" HorizontalAlignment="Left" Margin="383,531,0,0" VerticalAlignment="Top" Width="15" Height="15"/>
+        <Button x:Name="weiter" Content="Weiter" Grid.Column="1" HorizontalAlignment="Left" Margin="278,605,0,0" VerticalAlignment="Top" Width="75" Click="Weiter_Click" Height="20"/>
+        <Button x:Name="speichern" Content="Speichern" Grid.Column="1" HorizontalAlignment="Left" Margin="358,605,0,0" VerticalAlignment="Top" Width="75" Click="Speichern_Click_1" Height="20"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="2,108,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="30" Margin="2,108,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="25" Margin="2,137,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="25" Margin="2,184,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="24" Margin="2,161,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="25" Margin="2,253,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="2,108,0,0" VerticalAlignment="Top" Width="171" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="172,108,-8615,0" VerticalAlignment="Top" Width="88" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="259,108,0,0" VerticalAlignment="Top" Width="87" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="345,108,0,0" VerticalAlignment="Top" Width="88" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="2,382,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="30" Margin="2,382,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="25" Margin="2,411,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="25" Margin="2,458,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="24" Margin="2,435,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="25" Margin="2,527,0,0" VerticalAlignment="Top" Width="431" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="2,382,0,0" VerticalAlignment="Top" Width="171" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="172,382,0,0" VerticalAlignment="Top" Width="88" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="259,382,0,0" VerticalAlignment="Top" Width="87" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="170" Margin="345,382,0,0" VerticalAlignment="Top" Width="88" Grid.Column="1"/>
+
+    </Grid>
+</Window>

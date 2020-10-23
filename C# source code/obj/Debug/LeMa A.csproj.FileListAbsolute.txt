@@ -1,0 +1,117 @@
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\bin\Debug\LeMa A.exe.config
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\bin\Debug\LeMa A.exe
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\bin\Debug\LeMa A.pdb
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\LeMa A.csprojAssemblyReference.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\App.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\LeMa A_MarkupCompile.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\LeMa A_MarkupCompile.lref
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\MainWindow.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\LeMa A.g.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\LeMa_A.Properties.Resources.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\LeMa A.csproj.GenerateResource.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\LeMa A.exe
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\LeMa A.pdb
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\Seite2.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\Seite2.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.csprojAssemblyReference.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Seite2.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\App.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A_MarkupCompile.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A_MarkupCompile.lref
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.exe
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.pdb
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\seite3.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\seite4.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\seite5.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\seite6.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\seite3.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\seite4.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\seite5.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion (1)\201920\aut\C#\LeMa A\obj\Debug\seite6.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\bin\Debug\LeMa A.exe.config
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\bin\Debug\LeMa A.exe
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\bin\Debug\LeMa A.pdb
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite3.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite4.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite5.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite6.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\MainWindow.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Seite2.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite3.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite4.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite5.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite6.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.g.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa_A.Properties.Resources.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.csproj.GenerateResource.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Siete7.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Siete7.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Seite8.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite9.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Seite8.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite9.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\MainWindow.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Seite2.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite3.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite4.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite5.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite6.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Seite8.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite9.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Siete7.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\App.g.cs
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A_MarkupCompile.cache
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A_MarkupCompile.lref
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.exe
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.pdb
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\MainWindow.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Seite2.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite3.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite4.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite5.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite6.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Seite8.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\seite9.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\Siete7.baml
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.g.resources
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa A.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\bin\Debug\LeMa A.exe.config
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\bin\Debug\LeMa A.exe
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\bin\Debug\LeMa A.pdb
+C:\Users\andre\OneDrive - Bildungsdirektion\201920\aut\C#\LeMa A\obj\Debug\LeMa_A.Properties.Resources.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\bin\Debug\LeMa A.exe.config
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\bin\Debug\LeMa A.exe
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\bin\Debug\LeMa A.pdb
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa A.csprojAssemblyReference.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\Seite2.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite3.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite4.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite5.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite6.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\Seite8.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite9.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\Siete7.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\App.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa A_MarkupCompile.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa A_MarkupCompile.lref
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\MainWindow.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\Seite2.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite3.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite4.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite5.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite6.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\Seite8.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\seite9.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\Siete7.baml
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa A.g.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa_A.Properties.Resources.resources
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa A.csproj.GenerateResource.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa A.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa A.exe
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\LeMa A.pdb
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\SelectDirectory.g.cs
+C:\Users\Andreas\OneDrive - Bildungsdirektion\Andreas\Programmieren\Python\LemaB\C# source code\obj\Debug\SelectDirectory.baml

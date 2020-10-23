@@ -1,0 +1,15 @@
+﻿<Window x:Class="LeMa_A.Siete7"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeMa_A"
+        mc:Ignorable="d"
+        Title="Weitermachen?" Height="154" Width="309">
+    <Grid Margin="0,0,24,23">
+        <Button Content="JA" HorizontalAlignment="Left" Margin="96,56,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="NEIN" HorizontalAlignment="Left" Margin="176,56,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label x:Name="label1" Content="Mit dem Nächsten Schüler weitermachen?&#xD;&#xA;" HorizontalAlignment="Left" Margin="22,19,0,0" VerticalAlignment="Top" Height="32" Width="245"/>
+
+    </Grid>
+</Window>

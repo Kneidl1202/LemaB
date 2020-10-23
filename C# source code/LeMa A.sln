@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeMa A", "LeMa A.csproj", "{0C0345C2-9DE9-419B-934C-40554759DFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0345C2-9DE9-419B-934C-40554759DFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0345C2-9DE9-419B-934C-40554759DFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0345C2-9DE9-419B-934C-40554759DFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0345C2-9DE9-419B-934C-40554759DFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261D08A4-10BC-4F06-A8BB-FE8EB5699E11}
+	EndGlobalSection
+EndGlobal
