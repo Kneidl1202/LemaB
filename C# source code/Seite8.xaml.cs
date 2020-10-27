@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.IO;
+using System.Windows.Forms;
 
 namespace LeMa_A
 {
@@ -46,7 +47,7 @@ namespace LeMa_A
             dialog.Description = "Von wo sollen die Daten kopiert werden?";
             System.Windows.Forms.DialogResult result = dialog.ShowDialog();
 
-            ReadFilesFromFlashDrive(Convert.ToString(result));
+            ReadFilesFromFlashDrive(dialog.SelectedPath);
         }
         
 
@@ -57,7 +58,7 @@ namespace LeMa_A
             dialog.Description = "Waehlen Sie den Speicherort aus";
             System.Windows.Forms.DialogResult result = dialog.ShowDialog();
 
-            CopyFilesToFlashDrive(Convert.ToString(result));
+            CopyFilesToFlashDrive(dialog.SelectedPath);
         }
 
         void CopyFilesToFlashDrive(string savePath)
@@ -76,8 +77,7 @@ namespace LeMa_A
 
         void ReadFilesFromFlashDrive(string readPath)
         {
-            Console.WriteLine("Sind Sie sicher, dass Sie die bereits existierenden Daten Überschreiben wollen? Wenn ja geben Sie ja ein und drücken Enter. Sonst drücken Sie eine beliebige Taste.");
-            if (Console.ReadLine() == "ja")
+            if (System.Windows.MessageBox.Show("", "Sicher, dass die Daten Daten im Originalspeicherort ueberschrieben werden sollen?", (MessageBoxButton)MessageBoxButtons.YesNo) == MessageBoxResult.Yes)
             {
                 string[] files = new string[8] { "amount.txt", "seite1.txt", "seite2checkboxes.txt", "seite2textboxes.txt", "seite3.txt", "seite4.txt", "seite5.txt", "seite6.txt" };
 
@@ -92,7 +92,7 @@ namespace LeMa_A
             }
             else
             {
-                Console.WriteLine("Der Überschreibvorgang wurde abgebrochen.");
+                System.Windows.MessageBox.Show("Der Überschreibvorgang wurde abgebrochen.");
             }
         }
     }

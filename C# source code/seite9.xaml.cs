@@ -67,7 +67,7 @@ namespace LeMa_A
             else
             {
                 string[] files = new string[7] { "seite1.txt", "seite2checkboxes.txt", "seite2textboxes.txt", "seite3.txt", "seite4.txt", "seite5.txt", "seite6.txt"};
-                int[] lengths = new int[7] { 8, 8, 18, 24, 14, 45, 9};
+                int[] lengths = new int[7] { 8, 8, 18, 30, 14, 180, 9};
                 int i = 0;
 
                 foreach (string item in files)
@@ -121,8 +121,4 @@ namespace LeMa_A
             nameArray[1] = name;
         }
     }
-
-
-
-
 }
