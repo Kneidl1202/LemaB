@@ -1,5 +1,6 @@
 import xlsxwriter
 
+
 def fill_excel_file(data, worksheet, workbook):
     amount = data[0]
 
@@ -144,7 +145,6 @@ def fill_excel_file(data, worksheet, workbook):
                     worksheet.write(j + 55, i + 1, "", green)
                 else:
                     worksheet.write(j + 55, i + 1, "", red)
-
 
 
 def main(data):
